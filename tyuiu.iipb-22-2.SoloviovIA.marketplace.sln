@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.iipb-22-2.SoloviovIA.marketplace", "tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace.csproj", "{F1343497-E978-49B6-8310-44A23DED4FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.iipb-22-2.SoloviovIA.marketplace.tests", "tyuiu.iipb-22-2.SoloviovIA.marketplace.tests\tyuiu.iipb-22-2.SoloviovIA.marketplace.tests.csproj", "{DB48474D-3F41-4D61-AA2E-CD0D19AA2B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1343497-E978-49B6-8310-44A23DED4FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1343497-E978-49B6-8310-44A23DED4FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1343497-E978-49B6-8310-44A23DED4FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1343497-E978-49B6-8310-44A23DED4FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB48474D-3F41-4D61-AA2E-CD0D19AA2B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB48474D-3F41-4D61-AA2E-CD0D19AA2B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB48474D-3F41-4D61-AA2E-CD0D19AA2B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB48474D-3F41-4D61-AA2E-CD0D19AA2B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A40FA7B-CD28-4941-BEC8-C3B51AD40474}
+	EndGlobalSection
+EndGlobal

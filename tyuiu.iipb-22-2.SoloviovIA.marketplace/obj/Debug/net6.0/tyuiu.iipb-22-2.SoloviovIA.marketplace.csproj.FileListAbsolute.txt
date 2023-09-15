@@ -1,0 +1,15 @@
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\bin\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.exe
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\bin\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.deps.json
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\bin\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.runtimeconfig.json
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\bin\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.dll
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\bin\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.pdb
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.csproj.AssemblyReference.cache
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.AssemblyInfoInputs.cache
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.AssemblyInfo.cs
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.dll
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\refint\tyuiu.iipb-22-2.SoloviovIA.marketplace.dll
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.pdb
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\tyuiu.iipb-22-2.SoloviovIA.marketplace.genruntimeconfig.cache
+C:\Users\solov\source\repos\tyuiu.iipb-22-2.SoloviovIA.marketplace\tyuiu.iipb-22-2.SoloviovIA.marketplace\obj\Debug\net6.0\ref\tyuiu.iipb-22-2.SoloviovIA.marketplace.dll
