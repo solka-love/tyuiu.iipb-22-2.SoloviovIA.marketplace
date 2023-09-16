@@ -14,5 +14,12 @@ namespace tyuiu.iipb_22_2.SoloviovIA.marketplace.tests
             Assert.AreEqual(new DateTime(2006, 12, 7), date);
 
         }
+
+        //[TestMethod]
+
+        //public void CreateItem()
+        //{
+           
+        //}
     }
 }
