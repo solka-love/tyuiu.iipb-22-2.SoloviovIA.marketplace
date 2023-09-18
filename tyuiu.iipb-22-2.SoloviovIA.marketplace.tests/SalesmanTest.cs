@@ -12,6 +12,9 @@ namespace tyuiu.iipb_22_2.SoloviovIA.marketplace.tests
             DateTime date = salesman.Date;
             Assert.AreEqual("soloviov", name);
             Assert.AreEqual(new DateTime(2006, 12, 7), date);
+            
+    
+
 
         }
 

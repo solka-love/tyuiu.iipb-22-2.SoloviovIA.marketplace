@@ -28,6 +28,10 @@ namespace tyuiu.iipb_22_2.SoloviovIA.marketplace
                 return date;
             }
         }
+        public void print()
+        {
+            Console.WriteLine("333");
+        }
 
     }
 }
